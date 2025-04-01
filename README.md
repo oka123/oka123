@@ -22,9 +22,11 @@
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" alt="bootstrap logo"  />
   <img width="auto" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwind logo"  />
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/laravel/laravel-original-wordmark.svg" height="60" alt="laravel logo"  />
   <img width="auto" />
