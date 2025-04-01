@@ -4,7 +4,7 @@
 
 
 <h2 align="left">About me</h2>
-<p align="left">📚 Currently I am studying at Udayana University and i'm still learning programming language<br>🎯 Goals: Create a useful, beautiful, and responsive website and app<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
+<p align="left">📚 Currently I'm studying at Udayana University and i'm still learning programming language<br>🎯 Goals: Create a useful, beautiful, and responsive website and app<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
 
 ###
 
