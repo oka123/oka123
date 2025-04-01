@@ -56,6 +56,23 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/premierepro/premierepro-original.svg" height="60" alt="premierepro logo"  />
   <img width="auto" />
 </div>
+
+### 
+
+<h2 align="left">Project Demo</h2>
+
+###
+
+<div align="left">
+  <p>Point of Sales (POS) Website</p>
+  <a href="https://kasirfree.lovestoblog.com" </a>
+  <p>Shortener URL Website</p>
+  <a href="https://shorten.rf.gd"></a>
+</div>
+
+###
+
+
 <!--
 **oka123/oka123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
