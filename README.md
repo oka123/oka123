@@ -65,7 +65,8 @@
 
 <div align="left">
   <p>Point of Sales (POS) Website</p>
-  <a href="https://kasirfree.lovestoblog.com" target="_blank">Kunjungi POS Website</a>
+  <a href="https://kasirfree.lovestoblog.com" target="_blank"></a>
+  <br>
   <p>Shortener URL Website</p>
   <a href="https://shorten.rf.gd" target="_blank">Kunjungi Shortener URL Website</a>
 </div>
