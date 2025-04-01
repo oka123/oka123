@@ -64,10 +64,13 @@
 ###
 
 <div align="left">
-  <p>Point of Sales (POS) Website</p>
-  <a href="https://kasirfree.lovestoblog.com"></a>
-  <p>Shortener URL Website</p>
-  <a href="https://shorten.rf.gd"></a>
+  <h1>Point of Sales (POS) Website</h1>
+  <p>Website untuk sistem kasir yang memudahkan transaksi penjualan.</p>
+  <a href="https://kasirfree.lovestoblog.com" target="_blank">Kunjungi POS Website</a>
+  
+  <h1>Shortener URL Website</h1>
+  <p>Website untuk memperpendek URL dengan mudah dan cepat.</p>
+  <a href="https://shorten.rf.gd" target="_blank">Kunjungi Shortener URL Website</a>
 </div>
 
 ###
