@@ -16,9 +16,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original-wordmark.svg" height="100" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-plain-wordmark.svg" height="100" alt="html logo"  />
   <img width="auto" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original-wordmark.svg" height="100" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-plain-wordmark.svg" height="100" alt="css logo"  />
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height="100" alt="javascript logo"  />
   <img width="auto" />
