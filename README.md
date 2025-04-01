@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning backend programming language<br>🎯 Goals: Backend Developer<br>🎲 Fun fact: Rarely talk about unimportant things</p>
+<p align="left"><br>📚 I'm currently learning backend programming language<br>🎯 Goals: Create a beautiful and responsive website<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
 
 ###
 
@@ -33,6 +33,29 @@
 </div>
 
 ###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg" height="60" alt="visual studio logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postman/postman-original.svg" height="60" alt="postman logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/photoshop/photoshop-original.svg" height="60" alt="photoshop logo"  />
+  <img width="auto" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/premierepro/premierepro-original.svg" height="60" alt="premierepro logo"  />
+  <img width="auto" />
+</div>
 <!--
 **oka123/oka123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
