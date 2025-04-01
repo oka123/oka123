@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning backend programming language<br>🎯 Goals: Create a beautiful and responsive website<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
+<p align="left"><br>📚 I'm currently learning backend programming language<br>🎯 Goals: Create a useful, beautiful, and responsive website<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
 
 ###
 
