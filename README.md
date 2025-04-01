@@ -4,9 +4,6 @@
 
 
 <h2 align="left">About me</h2>
-
-###
-
 <p align="left"><br>📚 I'm currently learning backend programming language<br>🎯 Goals: Create a useful, beautiful, and responsive website<br>🎲 Fun fact: Highly dedicated to my work and responsibilities</p>
 
 ###
