@@ -25,7 +25,7 @@
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwind logo"  />
   <img width="auto" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
   <img width="auto" />
 </div>
 
