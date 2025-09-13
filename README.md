@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/vscode-original.svg" height="60" alt="visual studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" alt="visual studio logo"  />
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
   <img width="auto" />
