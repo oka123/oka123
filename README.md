@@ -60,7 +60,7 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <p>Point of Sales (POS) Website</p>
   <a href="https://kasirfree.lovestoblog.com" target="_blank">https://kasirfree.lovestoblog.com</a>
   <br><br>
@@ -71,7 +71,7 @@
 ###
 
 
-<!--
+
 **oka123/oka123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
