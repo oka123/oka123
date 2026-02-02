@@ -56,11 +56,11 @@
 
 ### 
 
-<h2 align="left">Project Demo</h2>
+<!--<h2 align="left">Project Demo</h2>
 
 ###
 
-<!-- <div align="left">
+ <div align="left">
   <p>Point of Sales (POS) Website</p>
   <a href="https://kasirfree.lovestoblog.com" target="_blank">https://kasirfree.lovestoblog.com</a>
   <br><br>
